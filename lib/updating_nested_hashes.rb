@@ -28,6 +28,7 @@ def update_status
 
 
   # After your code, the following code will return the altered hash. This method must only return the modified epic_tragedy hash
+  
   epic_tragedy
 end
 
@@ -68,5 +69,6 @@ epic_tragedy[:additional_characters] = [{:name => "Prince Escalus"},
 
 
    # After your code, the following line will return the altered hash
+   
    epic_tragedy
 end
